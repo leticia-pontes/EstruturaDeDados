@@ -1,0 +1,25 @@
+Quando um inteiro é declarado, uma parte da memóiria "reserva" um espaço da memória para armazenar a variável.
+
+int a = 5;
+
+&físico | &lógico | valor
+ 1010   | a       | 5
+32 bits
+
+int* -> aponta somente para valores inteiros
+
+int* pont;
+pont = &a;
+
+&físico | &lógico | valor
+ 2020   | *pont   | 1010
+
+pont = (int*)calloc(5, sizeof(int))
+-> reserva 5 posições seguidas do tipo inteiro (uma seguida da outra)
+
+&físico | &lógico | valor
+3030	| Não tem | 
+3032
+3034
+3036
+3038

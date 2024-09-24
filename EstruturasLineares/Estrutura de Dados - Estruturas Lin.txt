@@ -1,0 +1,25 @@
+Estrutura de Dados -> Estruturas Lineares
+
+
+--> Lista linear
+: Tem linearidade, ou seja, 
+
+
+--> Tipos
+
+> Vetor/Array
+- Fácil de implementar;
+- Tamanho fixo (contiguidade).
+
+> Listas ligadas/encadeadas
+- Os nós estão conectados;
+- Cada nó tem dois elementos: valor do nó e o endereço do próximo nó. A lista aponta para o primeiro nó. No último nó, o endereço é NULL.
+~	Características:
+	- Acesso sequencial
+	- Tamanho dinâmico.
+- Não tem acesso direto ao elemento
+
+	-> Tipos de Listas:
+	> Lista Simplesmente Ligadas
+	> Lista Duplamente Ligadas
+	> Lista Circular

@@ -1,0 +1,63 @@
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Compiled Object files
+*.obj
+*.o
+
+# Precompiled Headers
+*.pch
+*.gch
+
+# Compiled Dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debugger Files
+*.pdb
+*.ilk
+
+# Visual Studio database files
+*.sdf
+*.opensdf
+
+# Build Logs
+*.log
+
+# VS Code workspace settings
+.vscode/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Makefile
+cmake_install.cmake
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Backup files
+*.bak
+*.old
+*.orig
