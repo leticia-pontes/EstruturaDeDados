@@ -21,7 +21,7 @@ Para compilar e rodar os programas, você pode utilizar uma das seguintes ferram
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/EstruturaDeDados.git](https://github.com/leticia-pontes/EstruturaDeDados)
+   git clone https://github.com/leticia-pontes/EstruturaDeDados
    ```
    
 2. Acesse o diretório do projeto:
