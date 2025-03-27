@@ -250,10 +250,9 @@ int main() {
 				Exercicio3();
 				break;
 			default:
-				goto termina_loop_main;
+            	exit(0);
 		}
 	}
-	termina_loop_main:;
 
 	return 0;
 }
